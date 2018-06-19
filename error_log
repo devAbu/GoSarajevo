@@ -1,0 +1,2 @@
+[19-Nov-2017 14:30:21 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sagenerd_admin'@'localhost' (using password: YES) in /home1/sagenerd/public_html/picollofood.com/dbconnect.php on line 3
+[19-Nov-2017 14:30:21 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/sagenerd/public_html/picollofood.com/dbconnect.php on line 3
